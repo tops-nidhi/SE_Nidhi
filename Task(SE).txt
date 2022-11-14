@@ -1,0 +1,5 @@
+1.Nested Switch case
+2.Without 3rd value swapping
+3.Take no of days from user ans tacke choice what they want week,year,days.
+4.Take 2 no from user ans tacke choice what they want add, sub, mul, div.
+  
